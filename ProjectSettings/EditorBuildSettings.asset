@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9e00949a6e484844bb398f744428bfe8
+  - enabled: 1
+    path: Assets/Scenes/EggHatching.unity
+    guid: 3e5cb43d4dd66fe4794c8758c377d481
+  - enabled: 1
+    path: Assets/Scenes/Pet.unity
+    guid: 22f05104ce7450048bd2499ef9664eb0
+  - enabled: 1
+    path: Assets/Scenes/DeathCredits.unity
+    guid: fc6941c70dda6a246b0d09f5bb324d41
+  - enabled: 1
+    path: Assets/Scenes/EvolveCredits.unity
+    guid: e1d3b7b78b7c5e243bf60f38563f55aa
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: ec98efb0947a3a94db18a2526d973f8b
+  m_configObjects: {}
